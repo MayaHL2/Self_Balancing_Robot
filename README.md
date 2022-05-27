@@ -6,7 +6,7 @@ This project was done back in 2021 and was recently added to my github.
 ## Simlulation
 In order to realize our simulation, we used the VRsink block on simulink which is a tool allowing to create a virtual reality. So we started by making a simplified 3D model of the robot on VRlearm.
 
-![Simulation model](\Image\modelesimple.png)
+![Simulation model](/Image/modelesimple.png)
 
 
 ## Material
@@ -21,10 +21,10 @@ In order to realize our simulation, we used the VRsink block on simulink which i
 - 120cm threaded rod.
 - 4 wooden boards (9.5x20)
 
-![The 3D model of the wheel (Solidworks)](\Image\roue.png)
+![The 3D model of the wheel (Solidworks)](/Image/roue.png)
 
 
 ## Realization
 
-![Robot](\Image\robot.jpg)
+![Robot](/Image/robot.jpg)
 
